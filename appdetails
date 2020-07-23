@@ -12,6 +12,6 @@
         "id": "1.0.0",
         "forceUpdate": "true"
     },
-    "configs": "http://78.47.228.116:5000/api/v1/configs",
-    "proxies": "http://78.47.228.116:5000/api/v1/proxies"
+    "configs": "https://api.nicovpn.xyz/v1/configs",
+    "proxies": "http://api.nicovpn.xyz/v1/proxies"
 }
