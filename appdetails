@@ -12,6 +12,6 @@
         "id": "1.0.0",
         "forceUpdate": "true"
     },
-    "configs": "http://mahmooddatabaseapp.ir/test.json",
+    "configs": "https://raw.githubusercontent.com/nicogithubvp/config/master/configForce",
     "proxies": "http://78.47.228.116/v1/proxies"
 }
