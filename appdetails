@@ -12,6 +12,6 @@
         "id": "1.0.0",
         "forceUpdate": "true"
     },
-    "configs": "https://raw.githubusercontent.com/nicogithubvp/config/master/configForce",
-    "proxies": ""
+    "configs": "https://78.47.228.116/v1/configs",
+    "proxies": "https://78.47.228.116/v1/proxies"
 }
