@@ -1,12 +1,12 @@
 {
     "ads": {
-        "show": "false",
-        "appId": "ca-app-pub-7409461460639001~7786026144",
+        "show": "true",
+        "appId": "ca-app-pub-7409461460639001~3963565700",
         "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-7409461460639001/6796092690",
-        "interstitial2": "ca-app-pub-7409461460639001/1543766012",
+        "interstitial": "ca-app-pub-7409461460639001/7519667335",
+        "interstitial2": "ca-app-pub-7409461460639001/5720528171",
         "rewarded": "1",
-        "native": "ca-app-pub-7409461460639001/3837266172"
+        "native": "ca-app-pub-7409461460639001/9276629808"
     },
     "version": {
         "id": "1.0.0",
