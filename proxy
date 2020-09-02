@@ -1,0 +1,22 @@
+{
+    "proxies": [
+        {
+            "id": "0001",
+            "name": "enamad-en.ddns.net",
+            "country": "us",
+            "url": "tg://proxy?server=enamad-en.ddns.net&port=56789&secret=dd00000000000000000000000000000000"
+        },
+        {
+            "id": "0002",
+            "name": "shbandar.ddns.net",
+            "country": "de",
+            "url": "tg://proxy?server=shbandar.ddns.net&port=563&secret=ddf997479c83d0bd4101f5ece0e8443490"
+        },
+        {
+            "id": "0003",
+            "name": "werehere.ddns.net",
+            "country": "us",
+            "url": "tg://proxy?server=werehere.ddns.net&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d"
+        }
+    ]
+}
